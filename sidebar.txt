@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kqi:home|Door43 (kqi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kqi|d43-kqi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kqi/archive/master.zip|d43-kqi.zip]]
+
+**Recent Changes**
+{{changes>ns = kqi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kqi|Ethnologue data]]
+
